@@ -39,10 +39,3 @@ For each extracted text, perform textual analysis to compute the variables speci
 ### Output Variables
 
 All input variables from `Input.xlsx`, along with the variables computed during data analysis, should be included in the output. The format of the output should match the structure provided in the "Output Data Structure.xlsx" file.
-
-## Usage
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/data-extraction-nlp-assignment.git
